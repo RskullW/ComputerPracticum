@@ -6,7 +6,6 @@
 #define Bb 6
 
 void LoadRun(const char* const s, int i, int* array, int *matrix, int size, int sizeA, int sizeB);
-
 int main(int argc, char* argv[])
 {
     srand(time(NULL));
